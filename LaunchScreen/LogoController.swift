@@ -21,7 +21,7 @@ class LogoController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.addSubview(imageView)
-        DispatchQueue.main.asyncAfter(deadline: .now()+1.3) {
+        DispatchQueue.main.asyncAfter(deadline: .now()+13) {
             self.performSegue(withIdentifier: "HomeVC", sender: nil)
         }
     }
@@ -29,7 +29,7 @@ class LogoController: UIViewController {
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         imageView.center = view.center
-        DispatchQueue.main.asyncAfter(deadline: .now()+0.5) {
+        DispatchQueue.main.asyncAfter(deadline: .now()+5) {
             self.animate()
         }
     }

@@ -18,6 +18,8 @@
 		5EAF0BA9268C735000D92322 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF0BA8268C735000D92322 /* .gitignore */; };
 		5EAF0BAE268C7D2A00D92322 /* print-screen-001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF0BAD268C7D2A00D92322 /* print-screen-001.png */; };
 		5EAF0BB0268C7E4A00D92322 /* print-screen-002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF0BAF268C7E4A00D92322 /* print-screen-002.png */; };
+		5EAF0BB3268C809000D92322 /* print-screen-003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF0BB1268C808F00D92322 /* print-screen-003.png */; };
+		5EAF0BB4268C809000D92322 /* print-screen-004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF0BB2268C809000D92322 /* print-screen-004.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,8 @@
 		5EAF0BAB268C77BC00D92322 /* video-screen.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-screen.mp4"; sourceTree = "<group>"; };
 		5EAF0BAD268C7D2A00D92322 /* print-screen-001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "print-screen-001.png"; sourceTree = "<group>"; };
 		5EAF0BAF268C7E4A00D92322 /* print-screen-002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "print-screen-002.png"; sourceTree = "<group>"; };
+		5EAF0BB1268C808F00D92322 /* print-screen-003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "print-screen-003.png"; sourceTree = "<group>"; };
+		5EAF0BB2268C809000D92322 /* print-screen-004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "print-screen-004.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				5EAF0BAD268C7D2A00D92322 /* print-screen-001.png */,
 				5EAF0BAF268C7E4A00D92322 /* print-screen-002.png */,
+				5EAF0BB1268C808F00D92322 /* print-screen-003.png */,
+				5EAF0BB2268C809000D92322 /* print-screen-004.png */,
 			);
 			path = Screenshot;
 			sourceTree = "<group>";
@@ -158,6 +164,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EAF0BA9268C735000D92322 /* .gitignore in Resources */,
+				5EAF0BB4268C809000D92322 /* print-screen-004.png in Resources */,
+				5EAF0BB3268C809000D92322 /* print-screen-003.png in Resources */,
 				5EAF0BAE268C7D2A00D92322 /* print-screen-001.png in Resources */,
 				5EAF0BB0268C7E4A00D92322 /* print-screen-002.png in Resources */,
 				5EAF0B9B268C632B00D92322 /* LaunchScreen.storyboard in Resources */,
