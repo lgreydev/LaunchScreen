@@ -30,6 +30,7 @@
 		5EAF0BA2268C645B00D92322 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		5EAF0BA6268C732200D92322 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5EAF0BA8268C735000D92322 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		5EAF0BAB268C77BC00D92322 /* video-screen.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-screen.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 			children = (
 				5EAF0BA8268C735000D92322 /* .gitignore */,
 				5EAF0BA6268C732200D92322 /* README.md */,
+				5EAF0BAA268C77A300D92322 /* Video */,
 				5EAF0B8D268C632700D92322 /* LaunchScreen */,
 				5EAF0B8C268C632700D92322 /* Products */,
 			);
@@ -74,6 +76,14 @@
 				5EAF0BA2268C645B00D92322 /* HomeViewController.swift */,
 			);
 			path = LaunchScreen;
+			sourceTree = "<group>";
+		};
+		5EAF0BAA268C77A300D92322 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				5EAF0BAB268C77BC00D92322 /* video-screen.mp4 */,
+			);
+			path = Video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
