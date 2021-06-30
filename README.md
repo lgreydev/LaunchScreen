@@ -3,10 +3,4 @@
 
 Launch screen with animation, logo zooms in and out smoothly, automatic transition to the next screen.
 
-
-[![Launch Screen](https://res.cloudinary.com/marcomontalbano/image/upload/v1625047945/video_to_markdown/images/youtube--QpShzjq8q8g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QpShzjq8q8g "Launch Screen")
-
-
-
-
-<a href="https://youtu.be/QpShzjq8q8g"><img src="https://github.com/lgreydev/LaunchScreen/blob/main/Screenshot/print-screen-001.png" width="270" /></a>
+<a href="https://youtu.be/QpShzjq8q8g" title="Video Title"><img src="https://github.com/lgreydev/LaunchScreen/blob/main/Screenshot/print-screen-002.png" width="270" title="Picture Title" /></a>
