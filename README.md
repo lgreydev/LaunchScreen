@@ -9,4 +9,4 @@ Launch screen with animation, logo zooms in and out smoothly, automatic transiti
 
 
 
-<a href="https://youtu.be/QpShzjq8q8g" title="Link Title"><img src="https://github.com/lgreydev/LaunchScreen/blob/main/Screenshot/print-screen-001.png" alt="Alternate Text" /></a>
+<a href="https://youtu.be/QpShzjq8q8g"><img src="https://github.com/lgreydev/LaunchScreen/blob/main/Screenshot/print-screen-001.png" width="270" /></a>
