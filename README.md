@@ -1,8 +1,7 @@
 
 # Launch Screen
 
-### Launch screen with animation, logo zoom in and out smoothly, automatic transition to the next screen.
+Launch screen with animation, logo zooms in and out smoothly, automatic transition to the next screen.
 
-<img src="https://github.com/lgreydev/GuessWord/blob/main/Video/video-screen.mp4" width="270">
 
-[![Alternate Text]()](https://github.com/lgreydev/LaunchScreen/blob/main/Video/video-screen.mp4 "Link Title")
+[![Launch Screen](https://res.cloudinary.com/marcomontalbano/image/upload/v1625047945/video_to_markdown/images/youtube--QpShzjq8q8g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QpShzjq8q8g "Launch Screen")
